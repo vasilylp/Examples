@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\личные документы\GeekBrains\Курс Знакомство с языками программирования\Урок 1. Знакомство с языком С#\Examples\Example002_HelloUser\bin\Debug\net7.0\Example002_HelloUser.exe
+C:\Users\HP\Desktop\личные документы\GeekBrains\Курс Знакомство с языками программирования\Урок 1. Знакомство с языком С#\Examples\Example002_HelloUser\bin\Debug\net7.0\Example002_HelloUser.deps.json
+C:\Users\HP\Desktop\личные документы\GeekBrains\Курс Знакомство с языками программирования\Урок 1. Знакомство с языком С#\Examples\Example002_HelloUser\bin\Debug\net7.0\Example002_HelloUser.runtimeconfig.json
+C:\Users\HP\Desktop\личные документы\GeekBrains\Курс Знакомство с языками программирования\Урок 1. Знакомство с языком С#\Examples\Example002_HelloUser\bin\Debug\net7.0\Example002_HelloUser.dll
+C:\Users\HP\Desktop\личные документы\GeekBrains\Курс Знакомство с языками программирования\Урок 1. Знакомство с языком С#\Examples\Example002_HelloUser\bin\Debug\net7.0\Example002_HelloUser.pdb
+C:\Users\HP\Desktop\личные документы\GeekBrains\Курс Знакомство с языками программирования\Урок 1. Знакомство с языком С#\Examples\Example002_HelloUser\obj\Debug\net7.0\Example002_HelloUser.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\личные документы\GeekBrains\Курс Знакомство с языками программирования\Урок 1. Знакомство с языком С#\Examples\Example002_HelloUser\obj\Debug\net7.0\Example002_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\личные документы\GeekBrains\Курс Знакомство с языками программирования\Урок 1. Знакомство с языком С#\Examples\Example002_HelloUser\obj\Debug\net7.0\Example002_HelloUser.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\личные документы\GeekBrains\Курс Знакомство с языками программирования\Урок 1. Знакомство с языком С#\Examples\Example002_HelloUser\obj\Debug\net7.0\Example002_HelloUser.AssemblyInfo.cs
+C:\Users\HP\Desktop\личные документы\GeekBrains\Курс Знакомство с языками программирования\Урок 1. Знакомство с языком С#\Examples\Example002_HelloUser\obj\Debug\net7.0\Example002_HelloUser.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\личные документы\GeekBrains\Курс Знакомство с языками программирования\Урок 1. Знакомство с языком С#\Examples\Example002_HelloUser\obj\Debug\net7.0\Example002_HelloUser.dll
+C:\Users\HP\Desktop\личные документы\GeekBrains\Курс Знакомство с языками программирования\Урок 1. Знакомство с языком С#\Examples\Example002_HelloUser\obj\Debug\net7.0\refint\Example002_HelloUser.dll
+C:\Users\HP\Desktop\личные документы\GeekBrains\Курс Знакомство с языками программирования\Урок 1. Знакомство с языком С#\Examples\Example002_HelloUser\obj\Debug\net7.0\Example002_HelloUser.pdb
+C:\Users\HP\Desktop\личные документы\GeekBrains\Курс Знакомство с языками программирования\Урок 1. Знакомство с языком С#\Examples\Example002_HelloUser\obj\Debug\net7.0\Example002_HelloUser.genruntimeconfig.cache
+C:\Users\HP\Desktop\личные документы\GeekBrains\Курс Знакомство с языками программирования\Урок 1. Знакомство с языком С#\Examples\Example002_HelloUser\obj\Debug\net7.0\ref\Example002_HelloUser.dll
