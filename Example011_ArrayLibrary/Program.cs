@@ -5,7 +5,7 @@
     while (index < Length)
     {
         collection[index] = new Random().Next(1, 10);
-        index ++;
+        index++;
     }
 }
 
@@ -13,7 +13,7 @@ void PrintArray(int[] col)
 {
     int count = col.Length;
     int position = 0;
-    while(position < count)
+    while (position < count)
     {
         System.Console.WriteLine(col[position]);
         position++;
@@ -26,12 +26,12 @@ int IndexOf(int[] collection, int find)
     int count = collection.Length;
     int index = 0;
     int position = -1;
-    while(index < count)
+    while (index < count)
     {
-        if(collection[index] == find)
+        if (collection[index] == find)
         {
             position = index;
-            break;  
+            break;
         }
         index++;
     }
