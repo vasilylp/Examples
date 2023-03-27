@@ -41,7 +41,7 @@ int[]CreateArray(int size, int min, int max)
   /// </summary>
   /// <param name="collection">Исходный массив</param>
   /// <returns>Отсортированный массив массив</returns>
-  int[] SortSelection(int[] collection)
+  int[] SortSelection(int[] collection) //сортировка выбором
   {
     int size = collection.Length;
     for (int i = 0; i < size - 1; i++)

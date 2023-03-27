@@ -65,9 +65,9 @@ using static System.String;
 
 //----------------------------------------------------------------------------
 
-
-int[] array = CreateArray(20,min: 0, max: 50);
+int size = 10;
+int[] array = CreateArray(size,min: 0, max: 50);
 Show(array);
-SortQuick(array,0,19);
+SortQuick(array,0,size-1);
 Show(array);
-            
+//System.Console.WriteLine("+");         
